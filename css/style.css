@@ -1,0 +1,205 @@
+*{
+margin: 0;
+padding: 0;
+font-family: 'Playfair Display', serif;
+}
+.logo{
+    margin-top: 35px;
+    margin-left: 35px;
+    float: left;
+}
+.header{
+overflow: hidden;
+}
+.links{
+float: right;
+margin-right: 30px;
+width: 50%;
+}
+.links ul{
+ list-style-type: none;
+ float: right;
+ 
+}
+.links ul li{
+float: left;
+margin: 30px;
+font-size: 18px;
+
+}
+.links ul li a{
+   text-decoration: none;
+   color: #626262;
+   text-transform: uppercase;
+}
+.minimo img{
+    width: 100%;
+}
+.minimo{
+    width: 95%;
+    margin: auto;
+}
+.content{
+width: 90%;
+margin: auto;
+margin-top: 80px;
+}
+.content span{
+color: #626262;
+font-size: smaller;
+text-transform: uppercase;
+margin-top: 20px;
+display: block;
+}
+.content p{
+margin-top: 20px;
+margin-bottom: 20px;
+color: #626262;
+}
+.content h1{
+height: 50px;
+margin-top: 20px;
+color: #626262;
+}
+.sample_one{
+float: left;
+margin-left: 160px;
+}
+.sample_two{
+float: right;
+margin-right: 70px;
+}
+.step_one{
+    overflow: hidden;
+    margin-top: 30px;
+    width: 80%;
+    
+}
+.span span{
+    float: left;
+    margin-left: 160px;
+    color: #626262;
+}
+.span p{
+    float: right;
+    margin-right: 695px;
+    color: #626262;
+}
+.span{
+    overflow: hidden;
+}
+.one{
+    color: #626262;
+    float: left;
+    margin-left: 140px;
+    }
+    .two{
+    color: #626262;
+    float: right;
+    margin-right: 370px;
+    }
+    .heading{
+        margin-top: 50px;
+        overflow: hidden;
+    }
+.para{
+    margin-top: 20px;
+    overflow: hidden;
+}
+.para span{
+    color: #626262;
+    float: left;
+    width: 20%;
+    margin-left: 150px;
+}
+.para p{
+    color: #626262;
+    float: right;
+    width: 20%;
+    margin-right: 470px;
+}
+.step_two{
+    overflow: hidden;
+    margin-top: 30px;
+    width: 80%;
+}
+.sample_three{
+    float: left;
+    margin-left: 160px;
+}
+.sample_four{
+    float: right;
+    margin-right: 70px;
+}
+.signup{
+    background-color: #626262;
+    height: 300px;
+    width: 100%;
+}
+.signup h1{
+    text-align: center;
+    color: black;
+    margin-top: 30px;
+}
+.signup form {
+    height: 60px;
+    margin: auto;
+    text-align: center;
+}
+.step_three{
+    overflow: hidden;
+    margin-top: 30px;
+    width: 80%;
+}
+.sample_five{
+    float: left;
+    margin-left: 160px;
+}
+.sample_six{
+    float: right;
+    margin-right: 70px;
+}
+.loadmore{
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    color: black;
+    margin-top: 100px;
+    size: 100%;
+}
+.footer{
+    height: 200px;
+    background-color: #626262;
+}
+.foot ul li{
+height: 100px;
+text-align: center;
+margin-top: 30px;
+}
+.foot ul{
+    margin-top: 30px;
+}
+.foot{
+    height: 200px;
+    background-color: bisque;
+}
+.logos{
+overflow: hidden;
+margin: auto;
+color: black;
+background-color: bisque;
+}
+.fb{
+float: left;
+height: 30px;
+margin-left: 20px;
+}
+.Follow{
+float: left;
+margin-left: 650px;
+color: black;
+}
+.twitter{
+float: left;
+margin-left: 20px;
+}
